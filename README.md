@@ -1,4 +1,5 @@
-## Hi there 👋
+## Luís Eduardo Campos Barbosa
+## Cursando Engenharia de Telecomunicações na UFC(Universidade Federal do Ceará)
 
 <!--
 **luiseduac/luiseduac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
